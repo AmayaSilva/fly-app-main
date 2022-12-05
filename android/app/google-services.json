@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "176650099472",
+    "project_id": "flyapp-9dc12",
+    "storage_bucket": "flyapp-9dc12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176650099472:android:214731a94160294f092395",
+        "android_client_info": {
+          "package_name": "com.example.fly_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176650099472-osv7q9ajqmliuhh5597jfnlq8d1cke3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUHktcEWD9LLWhfpwoSC21oUB0gRMoA6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176650099472-osv7q9ajqmliuhh5597jfnlq8d1cke3a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176650099472-3mu3j7r18bk6slgfpchnbvmid6drnk10.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flyWeb"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176650099472:android:5c25edb4f219c573092395",
+        "android_client_info": {
+          "package_name": "com.example.fly_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176650099472-osv7q9ajqmliuhh5597jfnlq8d1cke3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUHktcEWD9LLWhfpwoSC21oUB0gRMoA6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176650099472-osv7q9ajqmliuhh5597jfnlq8d1cke3a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176650099472-3mu3j7r18bk6slgfpchnbvmid6drnk10.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flyWeb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
